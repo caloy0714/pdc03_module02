@@ -8,7 +8,7 @@
             <Label Text="Welcome to Xamarin.Forms!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-            <Button Text="Hello"/>
+            <Button Text="Hello two"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
