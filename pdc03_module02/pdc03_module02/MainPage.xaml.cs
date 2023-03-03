@@ -34,5 +34,10 @@ namespace pdc03_module02
         {
             await Navigation.PushAsync(new activity4());
         }
+
+        private async void OpenActivity5(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new activity5());
+        }
     }
 }
