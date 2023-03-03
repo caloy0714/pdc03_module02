@@ -12,6 +12,7 @@
                    Rotation="{Binding Path=Value}"
                    FontSize="Large"
                    />
+           
 
             <Slider x:Name="SlideRotate"
                     Maximum="360"
