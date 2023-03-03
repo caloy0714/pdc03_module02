@@ -27,6 +27,8 @@
                    HorizontalOptions="Center"
                    VerticalOptions="CenterAndExpand"/>
 
+            <Button Text="Activity5" Clicked="OpenActivity5"/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -53,6 +53,10 @@
             <Label BindingContext="{x:Reference SlideRotate}"
                     Text="{Binding Value, StringFormat='Rotation= {0:f1}'}"
                    />
+
+            <Grid Margin="20,35,20,20">
+                <Label Text="Sample" />
+            </Grid>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
